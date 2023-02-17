@@ -1,7 +1,7 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=cincin00%20Git&fontSize=90)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcincin00%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcincin00%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 
 <!-- Body -->
 <!-- ![](https://img.shields.io/badge/-?logo=&logoColor=black) -->
@@ -113,14 +113,23 @@
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=white&style=flat-square)
 
+# My Experience
 
-<!-- <a href=""><img src="https://img.shields.io/badge/AdminLte-%23000000" alt="AdminLte"></a>
-<a href=""><img src="https://img.shields.io/badge/Dropzone-%23000000" alt="Dropzone"></a>
-<a href=""><img src="https://img.shields.io/badge/DataTables-%23000000" alt="DataTables"></a>
-<a href=""><img src="https://img.shields.io/badge/FloraEditor-%23000000" alt="FloraEditor"></a> -->
+## Clickn
 
-# 🔭 My Experience
+- Homepage & Shopping mall Builder
 
+## Firstmall
+
+- Shopping mall
+
+## Ypage
+
+- Homepage Builder
+
+## DanggunWeb
+
+- Homepage Builder
 
 # Recent
 
@@ -131,15 +140,5 @@
 ## 📚 Frequently used language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cincin00)
-
-# My Repo
-
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=cincin00&repo=sequencesOrderBoard&theme=buefy)
-<!-- ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=cincin00&repo=sequencesOrderBoard&theme=buefy)
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=cincin00&repo=sequencesOrderBoard&theme=buefy)
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=cincin00&repo=sequencesOrderBoard&theme=buefy)
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=cincin00&repo=sequencesOrderBoard&theme=buefy)
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=cincin00&repo=sequencesOrderBoard&theme=buefy)
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=cincin00&repo=sequencesOrderBoard&theme=buefy) -->
 
 <!-- Footer -->
