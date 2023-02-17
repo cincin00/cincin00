@@ -82,6 +82,7 @@
 ### ServerSide Language
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=Xamarin&logoColor=white)
 
 ### ClientSide Language
 
