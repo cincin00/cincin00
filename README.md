@@ -1,13 +1,19 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=cincin00%20Git&fontSize=90)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcincin00%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
-
 <!-- Body -->
 <!-- ![](https://img.shields.io/badge/-?logo=&logoColor=black) -->
 # About Me
 
-- Hello World 👋 
+안녕하세요.저는 PHP 기반 백엔드 개발을 중심으로, Laravel, CodeIgniter 등 다양한 프레임워크를 활용한 웹 서비스 구축 및 유지보수 경험을 가진 개발자입니다.
+
+10년 이상의 현업 경험을 통해 쇼핑몰 빌더, CMS 관리자, 템플릿 엔진 개발 등 실무 중심의 프로젝트를 다수 수행해 왔으며, 성능 개선과 유지보수 효율화에 꾸준히 기여해 왔습니다.
+
+Linux 기반 서버 환경과 MySQL, MariaDB 등의 데이터베이스 운영에 능숙하며, GitHub, Jira, Redmine 등 협업 툴을 활용한 팀 프로젝트에도 익숙합니다.
+
+최근에는 Python과 FastAPI, NestJS와 TypeScript 기반의 백엔드 개발에도 집중하며 최신 웹 아키텍처와 API 설계 역량을 넓혀가고 있습니다.
+
+문제 해결력과 구조적 사고, 그리고 지속적인 기술 학습을 바탕으로, 안정적인 시스템과 가치를 창출하는 개발을 지향합니다.
 
 ## 🔥 Working Level Skills
 
