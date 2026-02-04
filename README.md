@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=cincin00%20Git&fontSize=90)
-
 # About Me
 
 PHP 백엔드 필드에서 10년 넘게 구르며 서비스의 시작과 성장을 함께해 왔습니다. Laravel이나 CodeIgniter 같은 프레임워크를 단순히 사용하는 수준을 넘어, 쇼핑몰 빌더부터 CMS, 템플릿 엔진까지 비즈니스의 뼈대가 되는 핵심 로직들을 직접 설계하고 구현해 본 경험이 제 큰 자산입니다.
@@ -57,13 +55,3 @@ PHP 백엔드 필드에서 10년 넘게 구르며 서비스의 시작과 성장�
 - **GabiaCNS:** 서비스 개발 및 성능 최적화, 전사 TF 참여
 - **Firstmall / Clickn:** 이커머스 솔루션 빌더 및 플랫폼 개발
 - **Ypage / DanggunWeb:** 반응형 웹 빌더 및 CMS 핵심 로직 설계
-
----
-
-# Recent Status
-
-## 📊 GitHub Stats
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=cincin00&show_icons=true)
-
-## 📚 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cincin00&layout=compact)
